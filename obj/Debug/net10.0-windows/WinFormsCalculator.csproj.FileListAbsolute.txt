@@ -1,0 +1,14 @@
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.exe
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.deps.json
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.runtimeconfig.json
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.dll
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\bin\Debug\net10.0-windows\WinFormsCalculator.pdb
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.AssemblyInfoInputs.cache
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.AssemblyInfo.cs
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.csproj.CoreCompileInputs.cache
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.dll
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\refint\WinFormsCalculator.dll
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.pdb
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\WinFormsCalculator.genruntimeconfig.cache
+D:\Github-project upload\dotnet project\Calculator\WinFormsCalculator\obj\Debug\net10.0-windows\ref\WinFormsCalculator.dll
