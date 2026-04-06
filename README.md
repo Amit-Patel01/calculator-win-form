@@ -3,7 +3,7 @@
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512bd4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/download)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![UI Style](https://img.shields.io/badge/UI-Glassmorphism-ff69b4?style=for-the-badge)](https://en.wikipedia.org/wiki/Glassmorphism)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
 
 A high-fidelity, Apple-inspired calculator built with **C# and WinForms**. This project demonstrates advanced GDI+ rendering techniques, including **anti-aliased rounded corners**, **real-time scale animations**, and **frosted glass effects**—all within the classic WinForms framework.
 
@@ -23,17 +23,7 @@ A high-fidelity, Apple-inspired calculator built with **C# and WinForms**. This 
 
 ---
 
-## 📸 Preview
 
-> [!TIP]
-> This app looks best on Windows 11 with dark mode enabled!
-
-<div align="center">
-  <img src="https://via.placeholder.com/340x560.png?text=Modern+Glass+Calculator+Preview" width="300" alt="Calculator Preview"/>
-  <p><i>Premium Glass Finish with Smooth Corner Clipping</i></p>
-</div>
-
----
 
 ## 🚀 Getting Started
 
